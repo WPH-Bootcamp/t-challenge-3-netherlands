@@ -214,4 +214,4 @@ Pastikan semua poin ini sudah terpenuhi sebelum kamu mengumpulkan:
 
 ---
 
-_Semangat, kamu pasti bisa. - Henry_
+_Semangat, kamu pasti bisa. - Henry Rivardo_
