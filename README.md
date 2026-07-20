@@ -19,10 +19,10 @@
 
 ## Gambaran Umum
 
-|                      |                                                                                                                        |
-| -------------------- | ---------------------------------------------------------------------------------------------------------------------- |
-| **Week**             | 3                                                                                                                      |
-| **Tech Stack**       | HTML, Tailwind CSS                                                                                                     |
+|                      |                                                                                                                            |
+| -------------------- | -------------------------------------------------------------------------------------------------------------------------- |
+| **Week**             | 3                                                                                                                          |
+| **Tech Stack**       | HTML, Tailwind CSS                                                                                                         |
 | **Referensi Desain** | [Buka Figma](https://www.figma.com/design/AmMiYJmlPXNrKmMDDwTw1B/Company-Profile?node-id=8411-143671&t=DWZCCObF0BsBcjBY-1) |
 
 ---
@@ -193,12 +193,12 @@ Pastikan semua poin ini sudah terpenuhi sebelum kamu mengumpulkan:
 
 ## Referensi
 
-| Sumber                          | Link                                                                                                     |
-| ------------------------------- | -------------------------------------------------------------------------------------------------------- |
-| Dokumentasi Tailwind CSS        | https://tailwindcss.com/docs                                                                             |
-| Tailwind Cheat Sheet            | https://nerdcave.com/tailwind-cheat-sheet                                                                |
+| Sumber                          | Link                                                                                                         |
+| ------------------------------- | ------------------------------------------------------------------------------------------------------------ |
+| Dokumentasi Tailwind CSS        | https://tailwindcss.com/docs                                                                                 |
+| Tailwind Cheat Sheet            | https://nerdcave.com/tailwind-cheat-sheet                                                                    |
 | Referensi Desain Figma          | https://www.figma.com/design/AmMiYJmlPXNrKmMDDwTw1B/Company-Profile?node-id=8411-143671&t=DWZCCObF0BsBcjBY-1 |
-| Chrome DevTools (Cek Responsif) | https://developer.chrome.com/docs/devtools/device-mode                                                   |
+| Chrome DevTools (Cek Responsif) | https://developer.chrome.com/docs/devtools/device-mode                                                       |
 
 ---
 
@@ -209,7 +209,8 @@ Pastikan semua poin ini sudah terpenuhi sebelum kamu mengumpulkan:
 | Penggunaan Tailwind CSS yang benar (tidak ada custom CSS) | 30%   |
 | Desain responsif (mobile dan desktop)                     | 25%   |
 | Kemiripan visual dengan desain Figma                      | 25%   |
-| Kebersihan dan kerapian kode                              | 20%   |
+| Kebersihan dan kerapian kode                              | 10%   |
+| Git Workflow & Submission                                 | 10%   |
 
 ---
 
